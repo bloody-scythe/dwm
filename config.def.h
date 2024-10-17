@@ -38,15 +38,8 @@ static const char *const autostart[] = {
     "dwm-bar", NULL,
     "picom", "-b", NULL,
     "sxhkd", "-m", "1", NULL,
-    "nm-applet", NULL,
-    "blueman-applet", NULL,
-    "udiskie", "-t", NULL,
-    "parcelite", NULL,
-    "keepassxc", NULL,
-    "otd-daemon", NULL,
+    "xfce4-clipman", NULL,
     "nitrogen", "--restore", NULL,
-    "numlockx", "on", NULL,
-    "screen", "-auto", NULL,
 	NULL /* terminate */
 };
 
