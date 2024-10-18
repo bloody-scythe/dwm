@@ -39,6 +39,7 @@ static const char *const autostart[] = {
     "picom", "-b", NULL,
     "sxhkd", "-m", "1", NULL,
     "xfce4-clipman", NULL,
+    "keepassxc", NULL,
     "nitrogen", "--restore", NULL,
 	NULL /* terminate */
 };
